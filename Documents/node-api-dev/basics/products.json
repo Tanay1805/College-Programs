@@ -1,0 +1,149 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Mouse",
+        "price": 25.99,
+        "category": "Electronics",
+        "brand": "Logitech"
+    },
+    {
+        "id": 2,
+        "name": "Gaming Laptop",
+        "price": 1200,
+        "category": "Computers",
+        "brand": "Asus"
+    },
+    {
+        "id": 3,
+        "name": "Smartphone",
+        "price": 699.99,
+        "category": "Mobile Phones",
+        "brand": "Samsung"
+    },
+    {
+        "id": 4,
+        "name": "Running Shoes",
+        "price": 49.99,
+        "category": "Footwear",
+        "brand": "Nike"
+    },
+    {
+        "id": 5,
+        "name": "Coffee Maker",
+        "price": 89.99,
+        "category": "Home Appliances",
+        "brand": "Keurig"
+    },
+    {
+        "id": 6,
+        "name": "Bluetooth Speaker",
+        "price": 35.49,
+        "category": "Electronics",
+        "brand": "JBL"
+    },
+    {
+        "id": 7,
+        "name": "4K TV",
+        "price": 799.99,
+        "category": "Televisions",
+        "brand": "LG"
+    },
+    {
+        "id": 8,
+        "name": "Office Chair",
+        "price": 129.99,
+        "category": "Furniture",
+        "brand": "Herman Miller"
+    },
+    {
+        "id": 9,
+        "name": "Digital Camera",
+        "price": 450,
+        "category": "Cameras",
+        "brand": "Canon"
+    },
+    {
+        "id": 10,
+        "name": "Yoga Mat",
+        "price": 19.99,
+        "category": "Fitness",
+        "brand": "Manduka"
+    },
+    {
+        "id": 11,
+        "name": "Air Conditioner",
+        "price": 499.99,
+        "category": "Home Appliances",
+        "brand": "Daikin"
+    },
+    {
+        "id": 12,
+        "name": "Electric Kettle",
+        "price": 29.99,
+        "category": "Kitchen Appliances",
+        "brand": "Philips"
+    },
+    {
+        "id": 13,
+        "name": "Smartwatch",
+        "price": 199.99,
+        "category": "Wearables",
+        "brand": "Apple"
+    },
+    {
+        "id": 14,
+        "name": "Noise Cancelling Headphones",
+        "price": 249.99,
+        "category": "Electronics",
+        "brand": "Sony"
+    },
+    {
+        "id": 15,
+        "name": "Refrigerator",
+        "price": 999.99,
+        "category": "Home Appliances",
+        "brand": "Whirlpool"
+    },
+    {
+        "id": 16,
+        "name": "Table Lamp",
+        "price": 39.99,
+        "category": "Lighting",
+        "brand": "Ikea"
+    },
+    {
+        "id": 17,
+        "name": "Electric Drill",
+        "price": 89.99,
+        "category": "Tools",
+        "brand": "Bosch"
+    },
+    {
+        "id": 18,
+        "name": "Tablet",
+        "price": 399.99,
+        "category": "Electronics",
+        "brand": "Microsoft"
+    },
+    {
+        "id": 19,
+        "name": "Fitness Tracker",
+        "price": 149.99,
+        "category": "Wearables",
+        "brand": "Fitbit"
+    },
+    {
+        "id": 20,
+        "name": "Microwave Oven",
+        "price": 129.99,
+        "category": "Kitchen Appliances",
+        "brand": "Panasonic"
+    },
+    {
+        "id": 21,
+        "name": "Computer Table",
+        "price": 198,
+        "category": "Furniture",
+        "brand": "Zebronic"
+    }
+]
