@@ -1,0 +1,15 @@
+{
+  "name": "footballteam-api",
+  "version": "1.0.0",
+  "description": "This is to create update and delete the players which we are going to make in the following database ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tanay",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.8.3"
+  }
+}
